@@ -5,7 +5,7 @@
     "guid": "505ce9d1-d916-42fa-86ca-673ef241d7df",
     "name": "SSO Authentication",
     "overview": "Authenticate users against an SSO provider.",
-    "owner": "9p4",
+    "owner": "babbitt",
     "versions": [
       {
         "changelog": "## What's Changed\r\n* Update version in SSO-Auth.csproj by @lf- in https://github.com/9p4/jellyfin-plugin-sso/pull/169\r\n* update authelia example to authelia v4.38 by @hendrik1120 in https://github.com/9p4/jellyfin-plugin-sso/pull/170\r\n* Update providers.md to include android app keycloak OIDC redirect URI by @tbelway in https://github.com/9p4/jellyfin-plugin-sso/pull/190\r\n* Update plugin to function with Jellyfin 10.9\r\n\r\n## New Contributors\r\n* @lf- made their first contribution in https://github.com/9p4/jellyfin-plugin-sso/pull/169\r\n* @hendrik1120 made their first contribution in https://github.com/9p4/jellyfin-plugin-sso/pull/170\r\n* @tbelway made their first contribution in https://github.com/9p4/jellyfin-plugin-sso/pull/190\r\n\r\n**Full Changelog**: https://github.com/9p4/jellyfin-plugin-sso/compare/v3.5.2.3...v3.5.2.4",
